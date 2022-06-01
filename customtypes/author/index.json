@@ -1,0 +1,25 @@
+{
+  "id": "author",
+  "label": "author",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "name": {
+        "type": "Text",
+        "config": {
+          "label": "Name",
+          "placeholder": ""
+        }
+      },
+      "picture": {
+        "type": "Image",
+        "config": {
+          "label": "Picture",
+          "constraint": {},
+          "thumbnails": []
+        }
+      }
+    }
+  }
+}

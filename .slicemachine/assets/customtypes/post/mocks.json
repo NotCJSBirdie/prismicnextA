@@ -1,0 +1,30 @@
+{
+  "id": "a2b90923-80b7-4ae1-bf8f-4b318f1cd8ac",
+  "uid": "aut-voluptatem-dolores",
+  "type": "post",
+  "data": {
+    "title": "utilize granular users",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Quis Lorem laboris commodo Lorem. Nisi deserunt culpa deserunt officia magna exercitation adipisicing nostrud officia occaecat mollit magna eu in ex.",
+        "spans": []
+      }
+    ],
+    "excerpt": "empower vertical experiences",
+    "coverimage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=900&h=500&fit=crop"
+    },
+    "date": "2018-01-15",
+    "author": {
+      "link_type": "Web",
+      "url": "http://google.com"
+    }
+  }
+}
